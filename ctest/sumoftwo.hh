@@ -1,0 +1,1 @@
+void sumoftwo(int &int0, int &int1, bool isswitch);

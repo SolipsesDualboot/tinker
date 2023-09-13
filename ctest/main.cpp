@@ -1,5 +1,5 @@
 #include <iostream>
-#include "sumoftwo.h"
+#include "sumoftwo.hh"
 
 int wee = 0;
 int woo = 0;
